@@ -10,8 +10,3 @@
 
 [story book for vite](https://storybook.js.org/blog/storybook-for-vite/)
 
-### setup
-
-* Yarn - install dependencies
-* Yarn dev - starts react app
-* yarn storybook - starts storybook
