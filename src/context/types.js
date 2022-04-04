@@ -1,0 +1,14 @@
+//VISITOR
+export const SET_VISITOR = 'SET_VISITOR';
+export const VISITOR_LOADING = 'VISITOR_LOADING';
+export const SET_VISITOR_REDIRECT = 'SET_VISITOR_REDIRECT_PATHNAME';
+
+//AUTH
+export const AUTH_USER = 'AUTH_USER';
+export const AUTH_USER_LOADING = 'AUTH_USER_LOADING';
+export const AUTH_ERROR = 'AUTH_ERROR';
+
+//USER
+export const SET_USER = 'SET_USER';
+export const USER_LOADING = 'USER_LOADING';
+export const NEW_USER = 'NEW_USER';
